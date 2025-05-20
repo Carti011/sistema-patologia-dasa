@@ -39,9 +39,15 @@ O objetivo é simular um sistema digital para **dimensionamento de amostras de t
 
 3. Execute a classe MainSistema
 
+## 📐 Diagrama UML
+Visualize abaixo o diagrama de classes UML representando a modelagem do sistema:
+
+![Diagrama UML](./img/diagrama-uml.png)
+
 ## 👨‍💻 Autor
 <table> <tr> <td><strong>Weslley Cardoso</strong></td> </tr> <tr> <td> 📧 <a href="mailto:weslleycardoso011@gmail.com">weslleycardoso011@gmail.com</a><br> 🌐 <a href="https://github.com/Carti011" target="_blank">GitHub: Carti011</a><br> 💼 <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">LinkedIn: https://www.linkedin.com/in/weslleycarti/</a> </td> </tr> </table>
 
 ### 📜 Licença
 Este projeto é de uso educacional e demonstrativo, criado como parte de um desafio acadêmico.
 Você pode utilizar, modificar e compartilhar livremente para fins de aprendizado e portfólio.
+
